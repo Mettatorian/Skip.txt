@@ -1,0 +1,116 @@
+Buildings:
+Commercial:shop*
+Residential:villa*
+Residential:detached*
+Water Tower 
+Residential:Semi-detachedhouse*
+Landfill Site
+Combustion Plant
+Wildlife Spawn Point
+Wind Turbine
+Fusion Power Plant
+bouncer_castle
+MerryGoRound
+Commercial:arcade*
+Industrial:*
+
+Vehicles:
+electric*
+hotdog-van
+Donut Van
+Bugspray Van
+Hearse
+Ambulance
+Police Helicopter
+Fire Helicopter
+Medical Helicopter
+ 
+
+Props:
+Billboard_3D_variation
+Rotating_squirrel
+Rotating_morelloscone
+Clown
+Octopus
+Nightwatch_billboard_big_anim
+Logo_flaming_ring
+Logo_neckbeard
+logo_meatybits
+Logo_pernu
+Logo_burned_bean
+Billboard_big_bigbite
+Billboard_big_bigbite_01
+Billboard_big_bigbite_02
+Billboard_big_bigbite_03
+billboard_big_Fallout
+billboard_big_Fallout_01
+billboard_big_Fallout_02
+billboard_big_Fallout_03
+billboard_big_Furniture
+billboard_big_Furniture_01
+billboard_big_Furniture_02
+billboard_big_Furniture_03
+Billboard_big_go_nuts
+Billboard_big_go_nuts_01
+Billboard_big_go_nuts_02
+Billboard_big_go_nuts_03
+Billboard_big_jubilee
+Billboard_big_jubilee_01
+Billboard_big_jubilee_02
+Billboard_big_jubilee_03
+Billboard_big_popsoda
+Billboard_big_popsoda_01
+Billboard_big_popsoda_02
+Billboard_big_popsoda_03
+billboard_big_realestate
+billboard_big_realestate_01
+billboard_big_realestate_02
+billboard_big_realestate_03
+billboard_big_Sparkly
+billboard_big_Sparkly_01
+billboard_big_Sparkly_02
+billboard_big_Sparkly_03
+Billboard_big_variation
+Billboard_big_variation_01
+Billboard_big_variation_02
+Billboard_big_variation_03
+Billboard_big_variation_04
+Billboard_big_yakisoba
+Billboard_big_yakisoba_01
+Billboard_big_yakisoba_02
+Billboard_big_yakisoba_03
+Billboard_big_yaxu
+Billboard_big_yaxu_01
+Billboard_big_yaxu_02
+Billboard_big_yaxu_03
+Billboard_lehto_anim
+Billboard_medium_flat_bigbite_01
+Billboard_medium_flat_bigbite_02
+Billboard_medium_flat_go_nuts_01
+Billboard_medium_flat_go_nuts_02
+Billboard_medium_flat_variation_01
+Billboard_pop_soda_anim
+Billboard_small_go_nuts_02
+Billboard_small_lehto_02
+Billboard_small_meaty_02
+neon-burned-bean-coffee
+neon-flaming-ring
+neon-yakisoba-noodles
+VS Sponsorship 01 Billboard Large 01
+VS Sponsorship 01 Billboard Medium 01
+VS Sponsorship 02 Billboard Large 01
+VS Sponsorship 02 Billboard Medium 01
+VS Sponsorship 03 Billboard Large 01
+VS Sponsorship 03 Billboard Medium 01
+VS Sponsorship 04 Billboard Large 01
+VS Sponsorship 04 Billboard Medium 01
+VS Sponsorship 05 Billboard Large 01
+VS Sponsorship 05 Billboard Medium 01
+
+Levels:
+RadioStation2
+RadioStation3
+RadioStation4
+Football
+Football2
+MusicFestival
